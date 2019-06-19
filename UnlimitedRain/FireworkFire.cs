@@ -66,4 +66,3 @@ namespace UnlimitedRain
         private int currentTargetIndex;
     }
 }
-}
